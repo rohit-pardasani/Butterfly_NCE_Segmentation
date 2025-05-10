@@ -12,7 +12,7 @@ Test: 2786
 
 For training unsupervised NCE all 6499 images from train set have been used.
 
-## For Segmentation, contours were created as in .csv files. The dataset can be found in Segmentend Dataset
+## For Segmentation, contours were created as in .csv files. The images, contours and masks can be found in Segmented Dataset
 
 **Training Set:** 100 images from the original Train set of 6499 were used. Contours are available in .csv file. Names of files were retained.
 

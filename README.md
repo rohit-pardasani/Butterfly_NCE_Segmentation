@@ -11,6 +11,7 @@ Train: 6499
 Test: 2786
 
 For training unsupervised NCE all 6499 images from train set have been used.
+
 Trained Model Link: https://drive.google.com/file/d/1qPIVWF4neh3B5-OxJOJxozKzVfwVP9RF/view?usp=drive_link
 
 
